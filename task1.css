@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.item1{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.item2 span{
+    padding: 10px;
+
+    
+
+}

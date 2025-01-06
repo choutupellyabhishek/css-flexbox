@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: deepskyblue;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+
+}
